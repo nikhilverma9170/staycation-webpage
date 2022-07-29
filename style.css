@@ -1,0 +1,115 @@
+body{
+    overflow-x: hidden;
+}
+.logo{ 
+    cursor: pointer;
+}
+.nav li a{
+    text-decoration: none;
+    color:black;
+    font-weight: bold;  
+}
+.carousel-item img{
+    width: 500px;
+    height: 500px;
+}
+.c1{
+    background-image: url(https://previews.123rf.com/images/jes2ufoto/jes2ufoto1708/jes2ufoto170800013/83300157-white-blur-abstract-background-banner-wide-screen-bokeh-white-christmas-shiny-blurred-lights-christm.jpg);
+    background-repeat: no-repeat;
+}
+table{
+    width: 100%;
+}
+.t1 th{
+    color: rgb(221, 184, 114);
+
+}
+.t1 td{
+    color: rgb(173, 170, 170);
+}
+.t2 td{
+    color: rgb(173, 170, 170);
+    text-align: center;
+    border: none !important;
+    width: 20%;
+   
+}
+.c2 .t2{
+    width: 100%;
+    background-color: rgb(224, 219, 219);
+}
+.t4{
+    text-align: center;
+}
+.t4 td{
+    border: none !important;
+}
+
+
+.r1{
+    background-color: rgb(38, 75, 108);
+}
+.col-md-8 h4{
+    color: #f2f2f2;
+}
+
+
+.newd{
+ text-align: center;
+}
+.newd .nav li a{
+    font-weight: normal;
+    
+}
+input[type=text]{
+    width: 100%;
+    margin-top: 5px;
+}
+input[type=number]{
+    width: 100%;
+    margin-top:10px;
+}
+input[type=email]{
+    width: 100%;
+    margin-top: 10px;
+}
+textarea[type=text]{
+    width: 100%;
+    margin-top: 10px;
+}
+.btn{
+    background-color: rgb(222, 174, 87);
+    color: wheat;
+}
+.c3{
+    background-color: rgb(230, 230, 230);
+}
+.row{
+    padding: 10px;
+}
+.r2{
+    margin-top: 30px;
+}
+.t3{
+    text-align: center;
+}
+
+ .t3 td{
+    background-color: black;
+    color: rgb(173, 170, 170);
+    border-style: none !important ;
+
+ }
+ .td3{
+     width: 33%;
+ }
+ .c4{
+     text-align: center;
+ }
+ 
+
+
+/* .icon h6
+{
+    text-align:center ;
+} */
